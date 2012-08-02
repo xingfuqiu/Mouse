@@ -1,0 +1,6 @@
+LIBRARY	"MouseRecrod"
+EXPORTS
+	MR_StartRecord
+	MR_StopRecord
+	MR_StartPlayBack
+	MR_StopPlayBack
